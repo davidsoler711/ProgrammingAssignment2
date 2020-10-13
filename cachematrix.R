@@ -5,6 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
       x <- 5
+      h <- 6
 }
 
 
